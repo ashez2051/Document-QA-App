@@ -9,7 +9,7 @@ A Streamlit-based app for question answering with document uploads and RAG (Retr
 - Question answering with OpenAI
 
 ## Setup
-1. Clone the repository:  ---add link later
+1. Clone the repository:  https://github.com/ashez2051/LangChain.git
 
 2. Install dependencies: pip install -r requirements.txt
 
