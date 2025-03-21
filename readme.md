@@ -2,6 +2,8 @@
 
 A Streamlit-based app for question answering with document uploads and RAG (Retrieval-Augmented Generation).
 
+https://github.com/user-attachments/assets/3e8196b2-29de-41e1-8040-668f83f746b7
+
 ## Features
 - Login system
 - Document upload and processing
